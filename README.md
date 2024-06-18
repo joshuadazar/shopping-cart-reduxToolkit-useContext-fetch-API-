@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+# React + TypeScript + Redux Toolkit + useContext + API fetch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project implements state management using react-redux + @reduxjs/toolkit + useContext
+
+- Required Nodejs 20+ ( to install dependecnies ) npm install 
 
 Currently, two official plugins are available:
 
